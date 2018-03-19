@@ -1,5 +1,5 @@
 # beardedspice-linefm-controller
-Control the player on [Line.fm](https://line.fm) with BeardedSpice.
+Control the player on [Line.fm](https://line.fm) with your media keys through BeardedSpice.
 
 ## How to use
 1. Download and install [BeardedSpice](http://beardedspice.github.io/).
